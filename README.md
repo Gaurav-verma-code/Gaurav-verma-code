@@ -2,7 +2,7 @@
 - 👀 I’m interested in website development  
 - 🌱 I’m currently learning java
 -💞️ I’m looking to collaborate on open-source projects related to web development
-- 📫 You can reach me on gauravcode19@gmail.com
+- 📫 You can reach me at gauravcode19@gmail.com
 - 😄 Pronouns:he/him
 
 <!---
